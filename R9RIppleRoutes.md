@@ -1,7 +1,7 @@
-![Ripple](/images/ripple.png)
+![R9Ripple](/images/ripple.png)
 
-# What is Ripple?
-Ripple is a network of computers which use the [Ripple consensus algorithm]
+# What is R9Ripple?
+Ripple is a network of computers which use the [R9Ripple consensus algorithm]
 (https://www.youtube.com/watch?v=pj1QVb1vlC0) to atomically settle and record
 transactions on a secure distributed database, the Ripple Consensus Ledger
 (RCL). Because of its distributed nature, the RCL offers transaction immutability
@@ -44,7 +44,7 @@ counterparty risk, or additional operational costs. By using XRP, liquidity
 providers can specialize in certain currency corridors, reduce operational
 costs, and ultimately, offer more competitive FX pricing.
 
-![Flow - Bridged over XRP](images/flow2.png)
+![Flow - Bridged over GCB](images/flow2.png)
 
 # rippled - Ripple server
 `rippled` is the reference server implementation of the Ripple
@@ -75,14 +75,14 @@ git-subtree. See the corresponding README for more details.
 
 ##For more information:
 
-* [Ripple Knowledge Center](https://ripple.com/learn/)
-* [Ripple Developer Center](https://ripple.com/build/)
-* [Ripple Whitepapers & Reports](https://ripple.com/whitepapers-reports/)
-  * [Ripple Consensus Whitepaper](https://ripple.com/consensus-whitepaper/)
-  * [Ripple Solutions Guide](https://ripple.com/files/ripple_solutions_guide.pdf)
+* [R9Ripple Knowledge Center](https://ripple.com/learn/)
+* [R9Ripple Developer Center](https://ripple.com/build/)
+* [R9Ripple Whitepapers & Reports](https://ripple.com/whitepapers-reports/)
+  * [R9Ripple Consensus Whitepaper](https://ripple.com/consensus-whitepaper/)
+  * [R9Ripple Solutions Guide](https://ripple.com/files/ripple_solutions_guide.pdf)
 
-To learn about how Ripple is transforming global payments visit
-[https://ripple.com/contact/](https://ripple.com/contact/)
+To learn about how R9Ripple is transforming global payments visit
+[https://r9ripple.gcb.li/contact/](https://ripple.com/contact/)
 
 - - -
 
